@@ -1,0 +1,52 @@
+## Nechesov Andrey
+
+Tokens are transfered while the crowdale is still running, a token holder that receives his token can start trading them instantly. 
+
+In first time users get bonuses for tokens. 
+
+IOU Token Sale Details:
+
+1) ETH = 800 IOU Tokens
+2) Bonus for Total Tokens: 
+	a) total IOU <= 10M IOU 
+	   Bonus 30% IOU tokens
+	b) 10M IOU < total IOU < 20M IOU
+	   Bonus 25% IOU tokens	
+	c) 20M IOU < total IOU < 30M IOU
+	   Bonus 20% IOU tokens	
+	d) 30M IOU< total IOU < 40M IOU
+	   Bonus 15% IOU tokens	
+	e) 40M IOU < total IOU < 50M IOU
+	   Bonus 10% IOU tokens	
+	f) 50M IOU < total IOU
+	   Bonus 5% IOU tokens		
+3) Bonus for TIME:
+	a) time < date ICO 
+	   Bonus 40% IOU
+	b) date ICO < time < date ICO + 5 days
+	   Bonus 5% IOU tokens	
+	c) date ICO + 5 days < time < date ICO + 10 days
+	   Bonus 4% IOU tokens	
+	d) date ICO + 10 days < time < date ICO + 20 days
+	   Bonus 3% IOU tokens	
+	e) date ICO + 20 days < time < date ICO + 30 days
+	   Bonus 2% IOU tokens	
+	f) date ICO + 30 days < time < close ICO
+	   Bonus 1% IOU tokens
+
+4) Bonus for Total Tokens:
+	
+	a) 1K IOU < total IOU < 5K IOU
+	   Bonus 5% IOU tokens	
+	b) 5K IOU < total IOU < 10K IOU
+	   Bonus 7.5% IOU tokens	
+	c) 10K IOU < total IOU < 15K IOU
+	   Bonus 10% IOU tokens	
+	d) 15K IOU < total IOU < 20K IOU
+	   Bonus 12.5% IOU tokens	
+	e) 20K IOU < total IOU
+	   Bonus 15% IOU tokens	
+
+Contract tested on Ropsten network.
+
+All functions checked!
